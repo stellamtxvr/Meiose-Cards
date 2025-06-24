@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #FAF6E9);
+}
+
+.cabeçalho {
+    background: linear-gradient(to right, #A9C46C);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    width: 190px;
+}
+
+.contener {
+    width: 280px;
+    height: 350px;
+    padding: 20px;
+    border-radius: 20px;
+    background: linear-gradient(to right, );
+    position: relative;
+    top: 70px;
+    left: 500px;
+}
+
+
+input {
+    border-radius: 10px;
+    width: 90%;
+    height: 20px;
+}
+
+
+
+.rodape {
+    position: fixed;
+    width: 100%;
+    background-color: #A9C46C;
+    bottom: 0%;
+
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+
+
+}
+
+h3 {
+    top: 20px;
+font-family: "Alumni Sans SC", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+h2 {
+  font-family: "Alumni Sans SC", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+h4{
+   font-family: "Alumni Sans SC", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+     text-align: justify;
+     width: 80%;
+     border: 10px solid #A9C46C;
+     border-radius: 10px;
+     /* background-color: #A9C46C; */
+     padding: 10px;
+     margin: 20px 10px;
+
+}
+
+h5{
+    font-family: "Comic Relief", system-ui;
+     text-align: center;
+     width: 80%;
+     font-size: 20px;
+}
+
+h6{
+     font-family: "Alumni Sans SC", sans-serif;
+      background: linear-gradient(to right,#A9C46C  );
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+     font-weight: 600;
+    font-size: 15px;
+}
